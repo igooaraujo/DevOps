@@ -1,2 +1,5 @@
 # DevOps
-Atividades e projetos com tecnologias DevOps
+
+Pasta BASE - Atividades com tecnologias e ferramentas DevOps
+
+Pasta PROJETOS - Projetos DevOps
